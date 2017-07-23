@@ -1,5 +1,6 @@
 Deezer MP3 downloader
 =====================
+This looks at the playlist from Deezer and pulls the files from YouTube, converts them into mp3.
 
 Instalation
 -----------
