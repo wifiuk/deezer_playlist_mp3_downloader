@@ -4,11 +4,13 @@ Deezer MP3 downloader
 Instalation
 -----------
 
-pip install git+https://github.com/creotiv/deezer_playlist_mp3_downloader
+git clone https://github.com/wifiuk/deezer_playlist_mp3_downloader.git
+pip install -r requirements.txt
 
 Use
 ---
-dzget -f mp3 -q 7 --playlist http://www.deezer.com/playlist/1447624935
+cd deezermp3\
+pyhton dzget.py -f mp3 -q 7 --playlist http://www.deezer.com/playlist/xxxxxxxxxxxxxxxxxxxxx
 
 
 
